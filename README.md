@@ -3,24 +3,24 @@ Um programa que capacita, qualifica e proporciona oportunidades incríveis para 
 
 [Hello World](https://github.com/bdalmeida/AfroDev/blob/master/src/HelloWorld.java)
 
-[Chamando o método SayHello](https://github.com/bdalmeida/AfroDev/blob/master/src/Program)
+[Chamando o método SayHello](https://github.com/bdalmeida/AfroDev/blob/master/src/Program.java)
 
-[Calculo IMC](https://github.com/bdalmeida/AfroDev/blob/master/src/CalculoIMC)
+[Calculo IMC](https://github.com/bdalmeida/AfroDev/blob/master/src/CalculoIMC.java)
 
-[Carro](https://github.com/bdalmeida/AfroDev/blob/master/src/Carro)
+[Carro](https://github.com/bdalmeida/AfroDev/blob/master/src/Carro.java)
 
-[TestaCarro](https://github.com/bdalmeida/AfroDev/blob/master/src/ProgramaCarro)
+[TestaCarro](https://github.com/bdalmeida/AfroDev/blob/master/src/ProgramaCarro.java)
 
-[Tipos Primitivos](https://github.com/bdalmeida/AfroDev/blob/master/src/ExemploTipoPrimitivo2)
+[Tipos Primitivos](https://github.com/bdalmeida/AfroDev/blob/master/src/ExemploTipoPrimitivo2.java)
 
-[Nome e Endereço - Exercício1](https://github.com/bdalmeida/AfroDev/blob/master/src/Exercicio1)
+[Nome e Endereço - Exercício1](https://github.com/bdalmeida/AfroDev/blob/master/src/Exercicio1.java)
 
-[Iniciando Scanner - Exercício2](https://github.com/bdalmeida/AfroDev/blob/master/src/Exercicio2)
+[Iniciando Scanner - Exercício2](https://github.com/bdalmeida/AfroDev/blob/master/src/Exercicio2.java)
 
-[Conhecendo o While - Exercício3](https://github.com/bdalmeida/AfroDev/blob/master/src/Exercicio3)
+[Conhecendo o While - Exercício3](https://github.com/bdalmeida/AfroDev/blob/master/src/Exercicio3.java)
 
-[Conhecendo o Switch Case - Exercício4](github.com/bdalmeida/AfroDev/blob/master/src/Exercicio4)
+[Conhecendo o Switch Case - Exercício4](github.com/bdalmeida/AfroDev/blob/master/src/Exercicio4.java)
 
-[Conta](https://github.com/bdalmeida/AfroDev/blob/master/src/Conta)
+[Conta](https://github.com/bdalmeida/AfroDev/blob/master/src/Conta.java)
 
-[TestaConta](https://github.com/bdalmeida/AfroDev/blob/master/src/Transacao)
+[TestaConta](https://github.com/bdalmeida/AfroDev/blob/master/src/Transacao.java)
