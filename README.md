@@ -24,3 +24,5 @@ Um programa que capacita, qualifica e proporciona oportunidades incríveis para 
 [Conta](https://github.com/bdalmeida/AfroDev/blob/master/src/Conta.java)
 
 [TestaConta](https://github.com/bdalmeida/AfroDev/blob/master/src/Transacao.java)
+
+[Maior e Menor usando o If Else](https://github.com/bdalmeida/AfroDev/blob/master/src/MaiorEMenor.java)
