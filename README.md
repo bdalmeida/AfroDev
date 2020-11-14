@@ -1,7 +1,7 @@
 # AfroDev
 Um programa que capacita, qualifica e proporciona oportunidades incríveis para profissionais pretos através das principais linguagens de programação da atualidade!
 
-[Hello World](https://github.com/bdalmeida/AfroDev/blob/master/src/HelloWorld)
+[Hello World](https://github.com/bdalmeida/AfroDev/blob/master/src/HelloWorld.java)
 
 [Chamando o método SayHello](https://github.com/bdalmeida/AfroDev/blob/master/src/Program)
 
