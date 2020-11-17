@@ -7,7 +7,7 @@ public class Tabuada {
         System.out.println("Digite um numero: ");
         int n1 = sc.nextInt();
 
-        if(n1<=0){
+        if(n1<0){
             System.out.println("Número inválido, digite um número inteiro maior que zero");
         }
         else {

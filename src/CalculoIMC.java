@@ -15,7 +15,7 @@ public class CalculoIMC {
         float imc = peso/(altura*altura);
 
         System.out.printf("IMC: " + "%.2f",imc);
-        System.out.println("");
+        System.out.println();
         if(imc<18.5){
             System.out.println("Adulto com baixo peso.");
         }

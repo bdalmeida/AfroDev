@@ -26,13 +26,13 @@ public class MaiorEMenor {
     //VERIFICANDO O MAIOR
 
     if (n1>n2 && n1>n3){
-        System.out.println("O primeiro número é o maior " + n1);
+        System.out.println("O primeiro número é o maior: " + n1);
     }
     else if (n2>n3 && n2>n1){
-        System.out.println("O segundo número é o maior " + n2);
+        System.out.println("O segundo número é o maior: " + n2);
     }
     else {
-        System.out.println("O terceiro número é o maior " + n3);
+        System.out.println("O terceiro número é o maior: " + n3);
     }
 
 }
