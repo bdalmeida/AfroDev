@@ -1,6 +1,8 @@
 # AfroDev
 Um programa que capacita, qualifica e proporciona oportunidades incríveis para profissionais pretos através das principais linguagens de programação da atualidade!
 
+[Percorrendo Arrays com o For aprimorado](https://github.com/bdalmeida/AfroDev/blob/master/src/Percorrendo_Arrays_For_Aprimorado.java)
+
 [Tabuada](https://github.com/bdalmeida/AfroDev/blob/master/src/Tabuada.java)
 
 [Hello World](https://github.com/bdalmeida/AfroDev/blob/master/src/HelloWorld.java)
