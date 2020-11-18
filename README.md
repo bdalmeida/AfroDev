@@ -1,6 +1,17 @@
 # AfroDev
 Um programa que capacita, qualifica e proporciona oportunidades incríveis para profissionais pretos através das principais linguagens de programação da atualidade!
 
+
+[Pessoa](https://github.com/bdalmeida/AfroDev/blob/master/src/Pessoa.java)
+
+[Instanciar Pessoas(Aluno,Funcionario ou Professor)](https://github.com/bdalmeida/AfroDev/blob/master/src/InstanciarPessoas.java)
+
+[Aluno](https://github.com/bdalmeida/AfroDev/blob/master/src/Aluno.java)
+
+[Funcionario](https://github.com/bdalmeida/AfroDev/blob/master/src/Funcionario.java)
+
+[Professor](https://github.com/bdalmeida/AfroDev/blob/master/src/Professor.java)
+
 [Percorrendo Arrays com o For aprimorado](https://github.com/bdalmeida/AfroDev/blob/master/src/Percorrendo_Arrays_For_Aprimorado.java)
 
 [Tabuada](https://github.com/bdalmeida/AfroDev/blob/master/src/Tabuada.java)
