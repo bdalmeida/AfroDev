@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class ExemploDoWhile {
+import java.util.Scanner;
+
+public class ExemploDoWhile {
+  //
 }
